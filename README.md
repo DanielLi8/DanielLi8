@@ -12,14 +12,14 @@
 <hr/>
 
 <!-- TECH-STACK:START -->
+![Jupyter Notebook](https://img.shields.io/badge/JUPYTER%20NOTEBOOK-F37626.svg?&style=flat&logo=jupyter&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
+![Haskell](https://img.shields.io/badge/HASKELL-5D4F85.svg?&style=flat&logo=haskell&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/NODE.JS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
-![Nix](https://img.shields.io/badge/NIX-5277C3.svg?&style=flat&logo=nixos&logoColor=white)&nbsp;
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626.svg?&style=flat&logo=jupyter&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-181717.svg?&style=flat&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=c&logoColor=white)&nbsp;
+![Elixir](https://img.shields.io/badge/ELIXIR-4B275F.svg?&style=flat&logo=elixir&logoColor=white)&nbsp;
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?&style=flat&logo=nixos&logoColor=white)
 <!-- TECH-STACK:END -->
 
 <sub>Tech badges above refresh automatically every Monday from my repos' real language stats.</sub>
