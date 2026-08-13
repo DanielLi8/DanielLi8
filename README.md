@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-⚡ Currently building **[Staffly](https://github.com/DanielLi8/Staffly)** as a founding engineer.
+⚡ Currently building **[Staffly](https://github.com/DanielLi8/Staffly)**.
 🔍 Enjoy working across the stack — from data pipelines to product features.
 🌱 Always tinkering with new tools and automating my own workflow.
 
